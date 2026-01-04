@@ -1,0 +1,73 @@
+{
+  "skin_types": {
+    "normal": {
+      "skin_problems": ["blackhead", "dark circles", "pigmentation", "pimples", "wrinkles"],
+      "routine": {
+        "AM": "Gentle cleanser, antioxidant serum (Vitamin C), lightweight moisturizer, SPF 30+.",
+        "PM": "Gentle cleanser, treatment serum (retinol/niacinamide), moisturizer.",
+        "key_products": "Balanced, non-stripping products; focus on prevention."
+      }
+    },
+    "dry": {
+      "skin_problems": ["blackhead", "dark circles", "pigmentation", "pimples", "wrinkles"],
+      "routine": {
+        "AM": "Gentle hydrating cleanser, hydrating essence/serum (hyaluronic acid), rich moisturizer, SPF 30+.",
+        "PM": "Creamy cleanser, hydrating toner/essence, serum (hyaluronic acid, ceramides), rich moisturizer, lip balm.",
+        "key_products": "Cream cleansers, hyaluronic acid, glycerin, ceramides, richer creams."
+      }
+    },
+    "combination": {
+      "skin_problems": ["blackhead", "dark circles", "pigmentation", "pimples", "wrinkles"],
+      "routine": {
+        "AM": "Gentle cleanser (foaming for T-zone, cream for cheeks), hydrating toner, lightweight moisturizer (maybe two types: lighter for oily, richer for dry), SPF 30+.",
+        "PM": "Cleanse, toner, targeted serums (hyaluronic acid for dry, niacinamide for oily), lightweight moisturizer (or two), maybe a clay mask on T-zone.",
+        "key_products": "Dual-textured moisturizers, oil-free SPF, balancing toners, clay masks."
+      }
+    },
+    "oily": {
+      "skin_problems": ["blackhead", "dark circles", "pigmentation", "pimples", "wrinkles"],
+      "routine": {
+        "AM": "Gentle foaming cleanser, alcohol-free toner (balancing/salicylic), lightweight moisturizer, SPF 30+.",
+        "PM": "Double cleanse (oil cleanser then foaming), toner, niacinamide/retinol serum, light moisturizer.",
+        "key_products": "Gel cleansers, clay masks, oil-free products, salicylic acid, niacinamide."
+      }
+    }
+  },
+  "skin_problems": {
+    "blackhead": {
+      "routine": {
+        "AM": "Gentle cleanser with salicylic acid, lightweight moisturizer, SPF 30+.",
+        "PM": "Double cleanse (oil cleanser, then foaming), toner, salicylic acid treatment, light moisturizer.",
+        "key_products": "Salicylic acid, tea tree oil, clay masks, non-comedogenic moisturizers."
+      }
+    },
+    "dark_circles": {
+      "routine": {
+        "AM": "Eye cream with caffeine, lightweight moisturizer, SPF 30+.",
+        "PM": "Eye cream with retinol or peptides, lightweight moisturizer.",
+        "key_products": "Caffeine, retinol, peptides, hydrating eye creams."
+      }
+    },
+    "pigmentation": {
+      "routine": {
+        "AM": "Gentle cleanser, Vitamin C serum, lightweight moisturizer, SPF 30+.",
+        "PM": "Gentle cleanser, retinol serum, brightening serum, light moisturizer.",
+        "key_products": "Vitamin C, retinol, brightening serums, hyaluronic acid, sunscreen."
+      }
+    },
+    "pimples": {
+      "routine": {
+        "AM": "Foaming cleanser with salicylic acid, lightweight moisturizer, SPF 30+.",
+        "PM": "Double cleanse, toner with niacinamide, spot treatment with benzoyl peroxide, light moisturizer.",
+        "key_products": "Salicylic acid, benzoyl peroxide, niacinamide, gel moisturizers."
+      }
+    },
+    "wrinkles": {
+      "routine": {
+        "AM": "Gentle hydrating cleanser, Vitamin C serum, lightweight moisturizer, SPF 30+.",
+        "PM": "Gentle cleanser, retinol serum, peptides serum, rich night cream.",
+        "key_products": "Retinol, peptides, Vitamin C, ceramides, hyaluronic acid."
+      }
+    }
+  }
+}
